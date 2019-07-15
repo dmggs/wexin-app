@@ -1,0 +1,5 @@
+$fontSize:24;
+@function r($px){
+        @return $px*2+rpx
+
+}
